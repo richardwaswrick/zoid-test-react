@@ -1,0 +1,23 @@
+{
+  "name": "zoid-test-react",
+  "version": "1.0.0",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "serve . -l 1337"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardwaswrick/zoid-test-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardwaswrick/zoid-test-react/issues"
+  },
+  "homepage": "https://github.com/richardwaswrick/zoid-test-react#readme",
+  "devDependencies": {
+    "flow-bin": "^0.76",
+    "serve": "^10.0.0"
+  }
+}
